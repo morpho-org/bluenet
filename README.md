@@ -2,7 +2,7 @@
 
 Network (or graph) visualization of Morpho Blue markets and Vaults.
 
-Example for USDC:
+Example for USDC (interactive version [here](https://morpho-org.github.io/bluenet/example.html)):
 
 ![example](example.png)
 
